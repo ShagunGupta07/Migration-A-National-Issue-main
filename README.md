@@ -1,1 +1,1 @@
-# This is a minor project on Face and Image Detection. In this project we use Machine Learning with some Python libraries.
+# This is a project in which we analyze the migration of prople in India to other states due to industrialization and unemployment.
