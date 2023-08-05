@@ -1,1 +1,1 @@
-# This is the group project designed by our team in IBM Skillsbuild Data Analytics Inovation camp in 2022.In this project data of various feilds is examined and state with most migrating people is predicted 
+# This is a minor project on Face and Image Detection. In this project we use Machine Learning with some Python libraries.
